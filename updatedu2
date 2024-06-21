@@ -1,0 +1,57 @@
+ENGLISH
+
+
+Community Announcement: New Updates to the Duplicate Line Removal Script
+Dear community members,
+
+We are pleased to inform you that we have made significant improvements to our duplicate line removal script. These updates are designed to optimize performance and ensure greater efficiency in file processing. Below, we present a summary of the new functionalities and improvements implemented:
+
+1. Processing Time Improvements:
+Removal of Artificial Delay: We have removed the simulated delay that existed in the previous version of the script, which has significantly reduced processing time. Now, the script can handle large files much faster.
+2. Management of Eliminated Lines:
+Deleted.txt file: Now, all deleted lines are saved in a file called deleted.txt. This file stores only a copy of each deleted line, avoiding duplicates and ensuring a clean and efficient registry.
+Continuous Update: Each time the script is run, deleted.txt is updated with the new deleted lines, maintaining an updated history of all lines that have been deleted to date.
+3. Multiple File Processing:
+File List: The script has been improved to process multiple input files sequentially. You can now specify a list of files in the script configuration section, and they will all be processed in order.
+Updating mnemoncios.txt: The mnemoncios.txt file is continually updated with the unique lines of all processed input files, ensuring that previously removed lines are not repeated.
+4. Use of the Script:
+Input Files: You can specify the input files you want to process in the input_files list.
+Run the Script: Simply run the script from the terminal. mnemoncios.txt and deleted.txt will be automatically updated based on the new lines processed and deleted.
+5. Status Messages:
+Visual Indicators: The script includes status messages that indicate the cleanup progress for each processed file and confirms the completion of each task.
+We are confident that these improvements will make it even easier to manage and process your text files, ensuring they are kept free of duplicate lines efficiently and effectively.
+
+We appreciate your continued support and are always here for any questions or additional assistance you may need.
+
+Sincerely,
+
+Made by May
+
+
+ESPAÑOL
+
+Comunicado a la Comunidad: Nuevas Actualizaciones del Script de Eliminación de Líneas Duplicadas
+Estimados miembros de la comunidad,
+
+Nos complace informarles que hemos realizado importantes mejoras en nuestro script de eliminación de líneas duplicadas. Estas actualizaciones están diseñadas para optimizar el rendimiento y asegurar una mayor eficiencia en el procesamiento de archivos. A continuación, les presentamos un resumen de las nuevas funcionalidades y mejoras implementadas:
+
+1. Mejoras en el Tiempo de Procesamiento:
+Eliminación del Retraso Artificial: Hemos eliminado el retraso simulado que existía en la versión anterior del script, lo cual ha reducido significativamente el tiempo de procesamiento. Ahora, el script puede manejar archivos de gran tamaño de manera mucho más rápida.
+2. Gestión de Líneas Eliminadas:
+Archivo eliminadas.txt: Ahora, todas las líneas eliminadas se guardan en un archivo llamado eliminadas.txt. Este archivo almacena únicamente una copia de cada línea eliminada, evitando duplicados y asegurando un registro limpio y eficiente.
+Actualización Continua: Cada vez que se ejecuta el script, eliminadas.txt se actualiza con las nuevas líneas eliminadas, manteniendo un historial actualizado de todas las líneas que se han eliminado hasta la fecha.
+3. Procesamiento de Múltiples Archivos:
+Lista de Archivos: El script ha sido mejorado para procesar múltiples archivos de entrada de manera secuencial. Ahora puedes especificar una lista de archivos en la sección de configuración del script, y todos serán procesados en orden.
+Actualización de mnemoncios.txt: El archivo mnemoncios.txt se actualiza continuamente con las líneas únicas de todos los archivos de entrada procesados, garantizando que no se repitan líneas eliminadas previamente.
+4. Uso del Script:
+Archivos de Entrada: Puedes especificar los archivos de entrada que deseas procesar en la lista archivos_entrada.
+Ejecutar el Script: Simplemente ejecuta el script desde la terminal. mnemoncios.txt y eliminadas.txt se actualizarán automáticamente según las nuevas líneas procesadas y eliminadas.
+5. Mensajes de Estado:
+Indicadores Visuales: El script incluye mensajes de estado que indican el progreso de la limpieza para cada archivo procesado y confirma la finalización de cada tarea.
+Estamos seguros de que estas mejoras facilitarán aún más el manejo y procesamiento de sus archivos de texto, asegurando que se mantengan libres de líneas duplicadas de manera eficiente y efectiva.
+
+Agradecemos su continuo apoyo y estamos siempre aquí para cualquier consulta o asistencia adicional que puedan necesitar.
+
+Atentamente,
+
+Hecho Por May
