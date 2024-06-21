@@ -1,3 +1,40 @@
+ENGLISH
+
+
+User Manual and Script Description
+
+
+Description
+
+This Python script is responsible for removing duplicate lines from a text file called read.txt and generates a clean file called mnemoncios.txt. In addition, it includes a progress bar in the terminal that shows the progress of the cleaning process and a message at the end indicating that the cleaning has been completed.
+
+
+************************************************** ************************************************** *********************************************
+
+Requirements
+Python 3.x
+
+tqdm library to show progress bar
+
+tqdm installation
+If you do not have the tqdm library installed, you can install it by running the following command in your terminal:
+
+pip install tqdm
+
+************************************************** ************************************************** **********************************************
+Use
+File Preparation: Make sure you have a text file called read.txt in the same directory where the script is located. This file should contain the lines you want to clean of duplicates.
+
+Save the Script: Copy the following code and save it in a file with a .py extension, for example, remove_duplicates.py.
+
+
+
+
+
+ESPAÑOL
+
+
+
 Manual de Uso y Descripción del Script
 
 
