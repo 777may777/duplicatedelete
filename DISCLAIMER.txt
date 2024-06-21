@@ -1,0 +1,12 @@
+DISCLAIMER:
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+By using this software, you acknowledge that:
+
+1. You are responsible for ensuring the legality of your actions when using this software in your jurisdiction.
+2. The authors do not guarantee the accuracy, completeness, or reliability of the results provided by this software.
+3. The use of this software for illegal activities, including but not limited to unauthorized access to cryptocurrency wallets, is strictly prohibited.
+4. You are solely responsible for any loss, damage, or legal consequences resulting from the use of this software.
+
+Use this software at your own risk.
